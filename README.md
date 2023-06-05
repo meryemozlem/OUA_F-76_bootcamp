@@ -34,14 +34,13 @@ yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
 Hedef kitle  
 ---
-• Netflix kullanicilan <br>
+• Netflix kullanicıları <br>
 • Prime kullanıcıları <br>
 • Sinema severler <br>
 ▪ Dizi severler <br>
 • 15-65 yaş arası kullanıcılar <br>
 
 <br><br>
-<br>
 <br>
 
 Product Backlog URL  
