@@ -16,6 +16,7 @@ Takım Elemanları
 --Movie App-
 
 Ürün Açıklaması  
+---
 • Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere
 sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda
 yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
