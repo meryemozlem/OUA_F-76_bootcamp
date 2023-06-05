@@ -2,16 +2,16 @@
 Bootcamp F-76 takımı reposudur.
 
 
-**__Takım İsmi__**
+**__Takım İsmi__**  
 Takım X  
-Ürün İle İlgili Bilgiler
-Takım Elemanları
+Ürün İle İlgili Bilgiler  
+Takım Elemanları  
 • John Doe: Product Owner
 • Jane Doe: Scrum Master
 • Atil Samancıoğlu: Team Member/Developer
-Ürün İsmi
+Ürün İsmi  
 --Movie App-
-Ürün Açıklaması
+Ürün Açıklaması  
 • Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere
 sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda
 yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
