@@ -32,12 +32,12 @@ yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 • IMDB ve Rotten Tomatoes puanlarini gösterme
 • Netflix'te ve Prime'da bulunurluğunu gösterme
 
-Hedef kitle  
+#Hedef kitle  
 ---
 • Netflix kullanicilan
 • Prime kullanıcıları
 • Sinema severler
 ▪ Dizi severler
 • 15-65 yaş arası kullanıcılar
-Product Backlog URL  
+#Product Backlog URL  
 Miro Backlog Board
