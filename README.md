@@ -38,6 +38,6 @@ yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 • Prime kullanıcıları
 • Sinema severler
 ▪ Dizi severler
-• 15-65 yaş arası kullanıcılar
+• 15-65 yaş arası kullanıcılar  
 #Product Backlog URL  
 Miro Backlog Board
