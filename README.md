@@ -11,9 +11,9 @@ Takım X
 
 #Takım Elemanları  
 ---
-• John Doe: Product Owner
-• Jane Doe: Scrum Master
-• Atil Samancıoğlu: Team Member/Developer
+• John Doe: Product Owner <br>
+• Jane Doe: Scrum Master  <br>
+• Atil Samancıoğlu: Team Member/Developer  <br>
 
 #Ürün İsmi  
 ---
@@ -27,17 +27,20 @@ yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
 #Ürün Özellikleri
 ---
-• Filmleri türüne göre ayırma
-• Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-• IMDB ve Rotten Tomatoes puanlarini gösterme
-• Netflix'te ve Prime'da bulunurluğunu gösterme
+• Filmleri türüne göre ayırma <br>
+• Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme <br>
+• IMDB ve Rotten Tomatoes puanlarini gösterme <br>
+• Netflix'te ve Prime'da bulunurluğunu gösterme <br>
 
-#Hedef kitle  
+Hedef kitle  
 ---
-• Netflix kullanicilan
-• Prime kullanıcıları
-• Sinema severler
-▪ Dizi severler
-• 15-65 yaş arası kullanıcılar  
-#Product Backlog URL  
+• Netflix kullanicilan <br>
+• Prime kullanıcıları <br>
+• Sinema severler <br>
+▪ Dizi severler <br>
+• 15-65 yaş arası kullanıcılar <br>
+
+<br><br>
+<br>
+Product Backlog URL  
 Miro Backlog Board
