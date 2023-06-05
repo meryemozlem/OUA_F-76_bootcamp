@@ -37,7 +37,7 @@ Hedef kitle
 • Netflix kullanicıları <br>
 • Prime kullanıcıları <br>
 • Sinema severler <br>
-▪ Dizi severler <br>
+• Dizi severler <br>
 • 15-65 yaş arası kullanıcılar <br>
 
 <br><br>
