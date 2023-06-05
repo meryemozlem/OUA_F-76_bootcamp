@@ -3,7 +3,7 @@ Bootcamp F-76 takımı reposudur.
 
 
 **__Takım İsmi__**
-Takım X
+Takım X  
 Ürün İle İlgili Bilgiler
 Takım Elemanları
 • John Doe: Product Owner
