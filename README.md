@@ -2,7 +2,7 @@
 Bootcamp F-76 takımı reposudur.
 
 
-##Takım İsmi##
+__Takım İsmi__
 Takım X
 Ürün İle İlgili Bilgiler
 Takım Elemanları
