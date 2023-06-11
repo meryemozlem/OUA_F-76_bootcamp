@@ -12,8 +12,8 @@ Takım Flutter 76
 #Takım Elemanları  
 ---
 • Kafur Kanlıyelek: Scrum Master/Team Member/Developer <br>
-• Meryem Özlem Aydoğan : Team Member/Developer  <br>
 • Alaaddin Koyuncu: Product Owner/Team Member/Developer  <br>
+• Meryem Özlem Aydoğan : Team Member/Developer  <br>
 • Onur Balbaşı: Team Member/Developer  <br>
 • Aylin Özbal: Team Member/Developer  <br>
 
