@@ -4,16 +4,18 @@ Bootcamp F-76 takımı reposudur.
 
 #Takım İsmi
 ---
-Takım X
+Takım Flutter 76
 
 #Ürün İle İlgili Bilgiler 
 ---
 
 #Takım Elemanları  
 ---
-• John Doe: Product Owner <br>
-• Jane Doe: Scrum Master  <br>
-• Atil Samancıoğlu: Team Member/Developer  <br>
+• Kafur Kanlıyelek: Scrum Master <br>
+• Meryem Özlem Aydoğan : Team Member/Developer  <br>
+• Alaaddin Koyuncu: Team Member/Developer  <br>
+• Onur Balbaşı: Team Member/Developer  <br>
+• Aylin Özbal: Team Member/Developer  <br>
 
 #Ürün İsmi  
 ---
