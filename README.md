@@ -40,3 +40,9 @@ Hedef kitle
 Product Backlog URL  
 ---
 Miro Backlog Board
+
+#Sprint-1<br><br>
+Tasarım için ana renkler seçildi<br>
+Tasarım görev dağılımı seçildi<br>
+Tasarımın figma üzerinden yapılmasına karar verildi<br>
+
