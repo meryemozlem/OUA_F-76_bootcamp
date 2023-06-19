@@ -19,27 +19,19 @@ Takım Flutter 76
 
 #Ürün İsmi  
 ---
---Movie App-
+--Seçilecek-
 
 #Ürün Açıklaması  
 ---
-• Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere
-sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda
-yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+• Uygulamamız benzer ilgi alanları olan kişileri buluşturmayı hedefliyor.
 
 #Ürün Özellikleri
 ---
-• Filmleri türüne göre ayırma <br>
-• Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme <br>
-• IMDB ve Rotten Tomatoes puanlarini gösterme <br>
-• Netflix'te ve Prime'da bulunurluğunu gösterme <br>
+• İlgi alanına göre etkinlik filtreleyebilme <br>
+• Aynı ilgi alanındaki diğer kişileri görebilme <br>
 
 Hedef kitle  
 ---
-• Netflix kullanicıları <br>
-• Prime kullanıcıları <br>
-• Sinema severler <br>
-• Dizi severler <br>
 • 15-65 yaş arası kullanıcılar <br>
 
 <br><br>
