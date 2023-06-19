@@ -45,4 +45,5 @@ Miro Backlog Board
 Tasarım için ana renkler seçildi<br>
 Tasarım görev dağılımı seçildi<br>
 Tasarımın figma üzerinden yapılmasına karar verildi<br>
+Seçilen uygulama renkleri: https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500
 
