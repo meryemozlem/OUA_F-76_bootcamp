@@ -44,7 +44,10 @@ Miro Backlog Board
 #Sprint-1<br><br>
 Sprint içinde tamamlanması tahmin edilen puan: 60 <br>
 Puan tamamlama mantığı: her sprintte 100 puanlık iş tamamlanacaktır. Tasarım, tasarımın hayata geçirilmesi, uygulamada hataların giderilmesi olarak 3 farklı sprint koşacağız.<br>
-Daily Scrum: Daily Scrum iletişimin daha kolay olması açısından whatsapp uygulamasını kullanarak yapılmıştır. Teknik akasaklıktan dolayı şu anda mesajların metnini burada görüntüleyemiyorsunuz.
+Daily Scrum: Daily Scrum iletişimin daha kolay olması açısından whatsapp uygulamasını kullanarak yapılmıştır.
+Dosyayı indirerek mesajları inceleyebilirsiniz.
+[�OUA-F76 ile WhatsApp Sohbeti.txt](https://github.com/meryemozlem/OUA_F-76_bootcamp/files/11785425/OUA-F76.ile.WhatsApp.Sohbeti.txt)
+
 Tasarım için ana renkler seçildi<br>
 Tasarım görev dağılımı seçildi<br>
 Tasarımın figma üzerinden yapılmasına karar verildi<br>
